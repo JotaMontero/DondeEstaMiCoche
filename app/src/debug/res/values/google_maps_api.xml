@@ -1,0 +1,6 @@
+<resources>
+    <!-- Clave única de la API de Google Maps asociada a mi cuenta -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyAzj7BqRJgAsd7mH88G1oYZod2rtaiMOOk
+    </string>
+</resources>

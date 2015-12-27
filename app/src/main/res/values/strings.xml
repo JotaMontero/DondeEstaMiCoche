@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">DondeEstaMiCoche</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_logo">LogoActivity</string>
+    <string name="logo_activity_nombreapp">¿Dónde está mi coche?</string>
+    <string name="title_activity_localizacion">Map</string>
 </resources>
